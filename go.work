@@ -1,0 +1,11 @@
+go 1.21.6
+
+use (
+	./01hello
+	./03userinput
+	./04conversion
+	./05mytime
+	./06mypointers
+	./07myarray
+	./08myslices
+)
