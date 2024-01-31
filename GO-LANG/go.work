@@ -10,4 +10,6 @@ use (
 	./08myslices
 	./09mymaps
 	./10mystruct
+	./11controlflow
+	./12loops
 )
