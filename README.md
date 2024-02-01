@@ -1,4 +1,4 @@
-##	This project uses go language to create a web API including JWT Authorization, Postgres for CRUD operations and Docker
+##	This project uses golang to create a web API including JWT Authorization, Postgres for CRUD operations and Docker
 
 To run any file --> go run *path of file*
 Main Folder
